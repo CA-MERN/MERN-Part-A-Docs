@@ -1,4 +1,4 @@
-## **Shelby El-rassi and Adrienne Smith T3A1**
+## **Shelby El-rassi and Adrienne Smith T3A2**
 
 ### MERN Full Stack Application Assignment
 
