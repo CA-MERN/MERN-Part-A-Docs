@@ -32,22 +32,32 @@ Server Repository: https://github.com/Shelby219/MERN-server
 #### Functionality / features
 #### Target audience
 #### Tech stack
+    -
+    -
+    -
+    -
+    -
 
 ---
 ### Dataflow Diagram
-
+![Dataflow Diagram](DataflowDiagram.png)
 ---
 ### Application Architecture Diagram
-
+![Application Architecture Diagram](app-arch-diagram.png)
 ---
 ### User Stories
 
 ---
 ### Wireframes
 #### Mobile
+![Mobile Wireframe 1](screenshots/Mobile1.png)
 #### Tablet
+![Tablet Wireframe 1](screenshots/Tablet1.png)
 #### Desktop
+![Desktop Wireframe 1](screenshots/Desktop1.png)
 
 ---
 ### Project Management
 #### Trello Screenshots
+
+![Trello Screen Shot 1](screenshots/trello1.png)
