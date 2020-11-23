@@ -82,7 +82,7 @@
 ### User Stories
 #### Version 1
 
-![Sarah Persona](persons/sarah.png)
+<img src="persons/sarah.png" alt="Sarah Persona" width="200"/>
 - #### Sarah 
     1.
     2.
