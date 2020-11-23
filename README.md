@@ -100,7 +100,7 @@
     5.
     6.
 
-![Liza Persona](persons/liza.png)
+![Liza Persona](persons/Eliza.png)
 - #### Liza 
     1.
     2.
