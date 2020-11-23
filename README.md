@@ -9,7 +9,7 @@
 
 ---
 
-##### Deployed App:
+##### Deployed App: 
 
 ##### Documentation Repository: https://github.com/Shelby219/MERN-Part-A-Docs
 
@@ -28,6 +28,7 @@
 
 ---
 ### Description 
+
 #### Purpose
 
 #### Functionality / features
@@ -56,20 +57,37 @@
 #### Nice to Have Features
 * Search History capture.
 * User can add a photo of their cooked dish, public or private collection. 
-*
 
 
 #### Target audience
 
+
+
 #### Tech stack
 * Design and Planning
     * Trello
-    * Fignma
+    * Figma
     * xtensio
+    * Draw.io
             
-* Implementation
-    *
-    * 
+* Frontend
+    * React
+    * HTML CSS
+    * Materialize UI
+    * Bootstrap
+    * HTML
+    * SCSS
+    * JavaScript
+
+* Backend
+    * MongoDB
+    * ExpressJS
+    * Node JS
+
+* Other
+    * Edamam API
+    * Heroku
+    * Netlify
 
 
 ---
