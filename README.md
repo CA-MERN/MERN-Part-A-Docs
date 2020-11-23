@@ -27,13 +27,19 @@
 * [**Project Management**](#Project-Management) 
 
 ---
-### Description 
+### Purpose
 
-#### Purpose
+<details>
+<summary>Click to expand</summary>
 
-#### Functionality / features
+</details>
 
-##### MVP Features
+---
+### Functionality / features
+<details>
+<summary>Click to expand</summary>
+
+#### MVP Features
 * User accounts
     * Signup
     * Login
@@ -52,18 +58,24 @@
     * Filter feature used for diet filter, prep time . 
     * Save recipes to favourites.
     * Vote and review on best recipes.
-
+</p>
 
 #### Nice to Have Features
 * Search History capture.
 * User can add a photo of their cooked dish, public or private collection. 
 
+</details>
 
-#### Target audience
+---
+### Target audience
+<details><summary>Click to expand</summary>
 
+</details>
 
+---
+### Tech stack
+<details><summary>Click to expand</summary>
 
-#### Tech stack
 * Design and Planning
     * Trello
     * Figma
@@ -88,61 +100,78 @@
     * Edamam API
     * Heroku
     * Netlify
-
+</details>
 
 ---
 ### Dataflow Diagram
+<details><summary>Click to expand</summary>
 ![Dataflow Diagram](DataflowDiagram.png)
+</details>
+
 ---
 ### Application Architecture Diagram
+<details><summary>Click to expand</summary>
 ![Application Architecture Diagram](app-arch-diagram.png)
+</details>
 
 ---
 ### User Stories
-#### Version 1
+
+<details><summary>Click to expand</summary>
+
+#### Personas
 ![Sarah Persona](persons/sarah.png)
-- #### Sarah 
-    1.
-    2.
-    3.
-    4.
-    5.
-    6.
-
 ![Wayne Persona](persons/wayne.png)
-- #### Wayne 
-    1.
-    2.
-    3.
-    4.
-    5.
-    6.
-
 ![Liza Persona](persons/Eliza.png)
-- #### Eliza 
-    1.
-    2.
-    3.
-    4.
-    5.
-    6.
-
 ![Bez Persona](persons/Bez.png)
-- #### Bez 
+
+#### Version 1
+- ##### Overall User
     1.
     2.
     3.
     4.
     5.
     6.
-
+- ##### Sarah 
+    1.
+    2.
+    3.
+    4.
+    5.
+    6.
+- ##### Wayne 
+    1.
+    2.
+    3.
+    4.
+    5.
+    6.
+- ##### Eliza 
+    1.
+    2.
+    3.
+    4.
+    5.
+    6.
+- ##### Bez 
+    1.
+    2.
+    3.
+    4.
+    5.
+    6.
 
 #### Version 2
 
 #### Version 3
+</details>
 
 ---
 ### Wireframes
+
+<details><summary>Click to expand</summary>
+
 #### Mobile
 ![Mobile Wireframe 1](screenshots/Mobile1.png)
 #### Tablet
@@ -150,8 +179,14 @@
 #### Desktop
 ![Desktop Wireframe 1](screenshots/Desktop1.png)
 
+</details>
+
 ---
 ### Project Management
 #### Trello Screenshots
 
+<details><summary>Click to expand</summary>
+
 ![Trello Screen Shot 1](screenshots/trello1.png)
+
+</details>
