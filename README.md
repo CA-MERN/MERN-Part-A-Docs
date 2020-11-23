@@ -114,7 +114,7 @@
 ![Sarah Persona](persons/sarah.png)
 ![Wayne Persona](persons/wayne.png)
 ![Liza Persona](persons/Eliza.png)
-![Bez Persona](persons/Bez.png)
+![Bez Persona](persons/bez.png)
 
 #### Version 1
 - ##### Overall User
