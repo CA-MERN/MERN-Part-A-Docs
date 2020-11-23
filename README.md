@@ -32,7 +32,7 @@
 
 #### Functionality / features
 
-#### MVP Features
+##### MVP Features
 * User accounts
     * Signup
     * Login
