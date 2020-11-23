@@ -101,7 +101,16 @@
     6.
 
 ![Liza Persona](persons/Eliza.png)
-- #### Liza 
+- #### Eliza 
+    1.
+    2.
+    3.
+    4.
+    5.
+    6.
+
+![Bez Persona](persons/Bez.png)
+- #### Bez 
     1.
     2.
     3.
