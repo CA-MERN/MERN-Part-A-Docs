@@ -33,15 +33,28 @@ Server Repository: https://github.com/Shelby219/MERN-server
 #### Functionality / features
 
 #### MVP Features
-- 
-- 
-- 
--
--
+- User accounts
+                - Signup
+                - Login
+                - Logout
+                - Edit details
+                - Delete account.
+- User dashboard
+                - Default Pantry Staples List which can also be add or deleted. (like salt, pepper, olive oil, vinegar)  
+                - View grocery list by category.
+                - Recipe interaction (saved, liked, reviewed).
+- Main Application
+                - Grocery input, add and delete. Implement predictive search.
+                - Implement alternate ingredient middleware matching eg. Cilantro = coriander if API does not have in place. 
+                - Recipe search button on main interface.
+                - Return recipes in sorted categories (breakfast, lunch, dinner).
+                - Save recipes to favourites.
+                - Vote and review on best recipes.
+
 
 #### Nice to Have Features
--
--
+- Search History capture.
+- User can add a photo of their cooked dish, public or private collection. 
 -
 -
 -
