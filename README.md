@@ -19,13 +19,12 @@
 
 ---
 ### Purpose
-
 <details>
 <summary>Click to expand</summary>
 
-The purpose of this application is for users to be able to enter ingredients which are always on their grocery list/fridge with the intent to search for recipes made up from those ingredients. The idea for this web application stemmed from the situation of the first lockdown of Covid19, in which stores sold out of a lot of popular and favourite grocery items of customers. An application such as this means users can input the ingredients they have currently at home and recipes including these ingredients will be displayed. Along side this factor is the need for users to stick to a grocery budget, so they do not want to be constantly going to the store to get expensive ingredients. Also the type of users using this app are ones that need recipe inspiration for their weekly meals, ones that search recipes based on dietary requirements and also users that are new to the cooking scene and want to start with cooking by just utilising ingredients already at home. 
+The purpose of this application is for users to be able to enter ingredients which are always on their grocery list/fridge with the intent to search for recipes made up from those ingredients. The idea for this web application stemmed from the situation of the first Australiam lockdown of Covid19, in which stores sold out of a lot of popular and favourite grocery items of customers. An application such as this means users can input the ingredients they have currently at home and recipes including these ingredients will be displayed. Along side this factor is the need for users to stick to a grocery budget, so they do not want to be constantly going to the store to get expensive ingredients. Also the type of users using this app are ones that need recipe inspiration for their weekly meals, ones that search recipes based on dietary requirements and excluded ingredients, and also users that are new to the cooking scene and want to start with cooking by just utilising ingredients already at home. This app can help to minimise food waste by helping users to combine items they may not have made a meal with otherwise.
 
-The overall goal of this application is a search application based on user ingredient lists, with the abiliti to save those recipes, like and review recipes. 
+The overall goal of this application is a search application based on user ingredient lists, with the ability to save those recipes, like and review recipes. 
 
 </details>
 
@@ -131,7 +130,7 @@ The overall goal of this application is a search application based on user ingre
 ![Sarah Persona](persons/sarah.png)
 ![Wayne Persona](persons/wayne.png)
 ![Liza Persona](persons/Eliza.png)
-![Bez Persona](persons/bez.png)
+![Bez Persona](persons/bez2.png)
 
 #### Version 1
 ##### Overall User
@@ -150,7 +149,7 @@ The overall goal of this application is a search application based on user ingre
     * From main interface I can navigate to my saved recipes
     * I can add more groceries with predictive input
     * I can delete groceries from my list
-    * I can clear all my grocery list
+    * I can clear all of my grocery list
     * I can see my recipes returned search with them categories in breakfast, lunch and dinner
     * I can further filter by diet (eg vegan) and prep time
     * I can see my recipes returned via list with image, name, time and calories
@@ -162,29 +161,32 @@ The overall goal of this application is a search application based on user ingre
 
 ##### Sarah 
 * As a mother and busy worker…
-    *  I would like to have a tool where I can utilise my current groceries to the fullest
+    * I would like to have a tool where I can utilise my current groceries to the fullest.
     * I would like to find some recipe variety for my family.
     * I would like to be able to filter via prep time in case I want a quick and easy recipe.
     * I would like a tool that is simple and easy to use.
     * I would like to see my saved recipes so I can use them another time if I like them.
     * I would like to filter via gluten free due to my child’s allergies.
     * I would like to see the nutrient values in the recipes as I am health conscious.
+
 ##### Wayne 
-* As a....
-    *
-    *
-    *
-    *
+* As a full-time worker and novice chef...
+    * I would like to view times on recipes when deciding what to try.
+    * I can see other user's reviews on recipes to decide if I will try it.
+    * I would like a simple interface without confusing options.
+    * I would like to limit the amount of ingredients in recipes I search.
+    
 ##### Eliza 
 * As a student and vegetarian…
     * I would like to have a tool to find recipe inspiration with my favourite ingredients.
     * I would also like a tool to find dishes with alternatives to my favourite ingredients.
     * I would like to be able to filter recipes based on my dietary needs as a vegetarian.
+  
 ##### Bez 
-* As a.....
-    *
-    *
-    *
+* As a chef with an egg surplus, an interest in learning different ways to cook them and some extra time for cooking...
+    * I would like to search for a recipe by dish type (eg soup) and ingredients.
+    * I would like to search for recipes without an ingredient, for when I am sick of eggs.
+    * I would like to search recipes by cuisine type (eg Spanish) so I can choose matching music.
 
 #### Version 2
 
