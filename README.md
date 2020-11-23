@@ -83,33 +83,31 @@
 #### Version 1
 
 ![Sarah Persona](persons/sarah.png)
-- ** Sarah **
-1.
-2.
-3.
-4.
-5.
-6.
+- #### Sarah 
+    1.
+    2.
+    3.
+    4.
+    5.
+    6.
 
 ![Wayne Persona](persons/wayne.png)
-- ** Wayne **
-
-1.
-2.
-3.
-4.
-5.
-6.
+- #### Wayne 
+    1.
+    2.
+    3.
+    4.
+    5.
+    6.
 
 ![Liza Persona](persons/liza.png)
-- ** Liza **
-
-1.
-2.
-3.
-4.
-5.
-6.
+- #### Liza 
+    1.
+    2.
+    3.
+    4.
+    5.
+    6.
 
 
 #### Version 2
