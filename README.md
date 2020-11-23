@@ -48,6 +48,7 @@
     * Implement alternate ingredient middleware matching eg. Cilantro = coriander if API does not have in place. 
     * Recipe search button on main interface.
     * Return recipes in sorted categories (breakfast, lunch, dinner).
+    * Filter feature used for diet filter, prep time . 
     * Save recipes to favourites.
     * Vote and review on best recipes.
 
@@ -81,8 +82,7 @@
 ---
 ### User Stories
 #### Version 1
-
-<img src="persons/sarah.png" alt="Sarah Persona" width="700"/>
+![Sarah Persona](persons/sarah.png)
 - #### Sarah 
     1.
     2.
