@@ -29,14 +29,36 @@ Server Repository: https://github.com/Shelby219/MERN-server
 ---
 ### Description 
 #### Purpose
+
 #### Functionality / features
+
+#### MVP Features
+- 
+- 
+- 
+-
+-
+
+#### Nice to Have Features
+-
+-
+-
+-
+-
+-
+
 #### Target audience
+
 #### Tech stack
-    -
-    -
-    -
-    -
-    -
+ - Design and Planning
+            - Trello
+            - Fignma
+            - xtensio
+            
+ - Implementation
+            - 
+            - 
+
 
 ---
 ### Dataflow Diagram
@@ -44,8 +66,44 @@ Server Repository: https://github.com/Shelby219/MERN-server
 ---
 ### Application Architecture Diagram
 ![Application Architecture Diagram](app-arch-diagram.png)
+
 ---
 ### User Stories
+#### Version 1
+
+![Sarah Persona](persons/sarah.png)
+- ** Sarah **
+1.
+2.
+3.
+4.
+5.
+6.
+
+![Wayne Persona](persons/wayne.png)
+- ** Wayne **
+
+1.
+2.
+3.
+4.
+5.
+6.
+
+![Liza Persona](persons/liza.png)
+- ** Liza **
+
+1.
+2.
+3.
+4.
+5.
+6.
+
+
+#### Version 2
+
+#### Version 3
 
 ---
 ### Wireframes
