@@ -118,28 +118,29 @@
 
 #### Version 1
 ##### Overall User
-* I can go to the home page signup to create an account
-* I can login
-* I can navigate to my account settings and edit my account details
-* I can navigate to the account settings and delete the account
-* I can navigate to my dash and see what recipes I have interacted with (vote, save, reviewed) so I can quickly access/reaccess them later.
-* I can navigate to my dash and see my current groceries organised by category
-* I can navigate to my dashboard and see my current pantry staples
-* I can navigate to main interface and see 'get searching today'!
-* Once an initial search is done, I want see 'refresh again'
-* From main interface  I can make a recipe search 
-* From main interface I can navigate to my grocery lists
-* From main interface I can navigate to my saved recipes
-* I can add more groceries with predictive input
-* I can delete groceries from my list
-* I can see my recipes returned search with them categories in breakfast, lunch and dinner
-* I can further filter by diet (eg vegan) and prep time
-* I can see my recipes returned via list with image, name, time and calories
-* I can click go to recipe
-* I can click a like heart on the recipe
-* On a clicked recipe page I can click the save recipe button
-* On a clicked recipe page I can view the whole recipe
-* On a clicked recipe page I can rate the recipe
+* As a overall user:
+    * I can go to the home page signup to create an account
+    * I can login
+    * I can navigate to my account settings and edit my account details
+    * I can navigate to the account settings and delete the account
+    * I can navigate to my dash and see what recipes I have interacted with (vote, save, reviewed) so I can quickly access/reaccess them later.
+    * I can navigate to my dash and see my current groceries organised by category
+    * I can navigate to my dashboard and see my current pantry staples
+    * I can navigate to main interface and see 'get searching today'!
+    * Once an initial search is done, I want see 'refresh again'
+    * From main interface  I can make a recipe search 
+    * From main interface I can navigate to my grocery lists
+    * From main interface I can navigate to my saved recipes
+    * I can add more groceries with predictive input
+    * I can delete groceries from my list
+    * I can see my recipes returned search with them categories in breakfast, lunch and dinner
+    * I can further filter by diet (eg vegan) and prep time
+    * I can see my recipes returned via list with image, name, time and calories
+    * I can click go to recipe
+    * I can click a like heart on the recipe
+    * On a clicked recipe page I can click the save recipe button
+    * On a clicked recipe page I can view the whole recipe
+    * On a clicked recipe page I can rate the recipe
 
 ##### Sarah 
 * As a mother and busy worker…
