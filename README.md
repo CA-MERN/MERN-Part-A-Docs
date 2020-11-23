@@ -11,11 +11,11 @@
 
 ##### Deployed App: 
 
-##### Documentation Repository: https://github.com/Shelby219/MERN-Part-A-Docs
+##### Documentation Repository: https://github.com/CA-MERN/MERN-Part-A-Docs
 
-##### Client Repository: https://github.com/Shelby219/MERN-client
+##### Client Repository: https://github.com/CA-MERN/MERN-client
 
-##### Server Repository: https://github.com/Shelby219/MERN-server
+##### Server Repository: https://github.com/CA-MERN/MERN-server
 
 ---
 ### Purpose
@@ -60,6 +60,10 @@ The overall goal of this application is a search application based on user ingre
 * Oauth with signup and login. 
 * Recipes of the week on the home page
 * Saved recipes in recipe collections
+* Filter recipe by dish type(eg soup)
+* No ingredient recipe search (returns random recipe suggestions)
+* Filter recipes by cuisine type
+* Advanced diet preference eg low-carb
 
 </details>
 
@@ -140,19 +144,21 @@ The overall goal of this application is a search application based on user ingre
     * I can navigate to my account settings and edit my account details
     * I can navigate to the account settings and delete the account
     * I can navigate to my dash and see what recipes I have interacted with (vote, save, reviewed) so I can quickly access/reaccess them later.
-    * I can navigate to my dash and see my current groceries organised by category
-    * I can navigate to my dashboard and see my current pantry staples
+    * Through the navigation bar I can see my current fridge items organised by category
+    * Through the navigation bar I can and see my current pantry staples
     * I can navigate to main interface and see 'get searching today'!
     * Once an initial search is done, I want see 'refresh again'
     * From main interface  I can make a recipe search 
     * From main interface I can navigate to my grocery lists
     * From main interface I can navigate to my saved recipes
+    * From main interface I can navigate to my diet preferences
     * I can add more groceries with predictive input
     * I can delete groceries from my list
     * I can clear all of my grocery list
     * I can see my recipes returned search with them categories in breakfast, lunch and dinner
     * I can further filter by diet (eg vegan) and prep time
-    * I can see my recipes returned via list with image, name, time and calories
+    * I can see my recipes returned via list with image, name, time and rating.
+    * I can see how many ingredients I have in the receipe eg. "You have 4/5 ingredients"
     * I can click go to recipe
     * I can click a like heart on the recipe
     * On a clicked recipe page I can click the save recipe button
