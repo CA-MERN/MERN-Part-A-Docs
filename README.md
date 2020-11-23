@@ -23,6 +23,10 @@
 <details>
 <summary>Click to expand</summary>
 
+The purpose of this application is for users to be able to enter ingredients which are always on their grocery list/fridge with the intent to search for recipes made up from those ingredients. The idea for this web application stemmed from the situation of the first lockdown of Covid19, in which stores sold out of a lot of popular and favourite grocery items of customers. An application such as this means users can input the ingredients they have currently at home and recipes including these ingredients will be displayed. Along side this factor is the need for users to stick to a grocery budget, so they do not want to be constantly going to the store to get expensive ingredients. Also the type of users using this app are ones that need recipe inspiration for their weekly meals, ones that search recipes based on dietary requirements and also users that are new to the cooking scene and want to start with cooking by just utilising ingredients already at home. 
+
+The overall goal of this application is a search application based on user ingredient lists, with the abiliti to save those recipes, like and review recipes. 
+
 </details>
 
 ---
@@ -54,12 +58,16 @@
 #### Nice to Have Features
 * Search History capture.
 * User can add a photo of their cooked dish, public or private collection. 
+* Oauth with signup and login. 
+* Recipes of the week on the home page
+* Saved recipes in recipe collections
 
 </details>
 
 ---
 ### Target audience
 <details><summary>Click to expand</summary>
+
 
 </details>
 
@@ -142,6 +150,7 @@
     * From main interface I can navigate to my saved recipes
     * I can add more groceries with predictive input
     * I can delete groceries from my list
+    * I can clear all my grocery list
     * I can see my recipes returned search with them categories in breakfast, lunch and dinner
     * I can further filter by diet (eg vegan) and prep time
     * I can see my recipes returned via list with image, name, time and calories
