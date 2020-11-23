@@ -127,7 +127,7 @@
     5.
     6.
 
-![Bez Persona](persons/Bez.png)
+![Bez Persona](persons/Bez2.png)
 - #### Bez 
     1.
     2.
