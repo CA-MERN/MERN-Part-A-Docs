@@ -152,7 +152,7 @@
     * I would like to filter via gluten free due to my child’s allergies.
     * I would like to see the nutrient values in the recipes as I am health conscious.
 ##### Wayne 
-* aaa
+* As a....
     *
     *
     *
@@ -160,18 +160,17 @@
 ##### Eliza 
 * As a student and vegetarian…
     * I would like to have a tool to find recipe inspiration with my favourite ingredients.
-    * I would like a tool to find dishes with alternatives to my favourite ingredients.
+    * I would also like a tool to find dishes with alternatives to my favourite ingredients.
     * I would like to be able to filter recipes based on my dietary needs as a vegetarian.
 ##### Bez 
-* aaa
-    *
+* As a.....
     *
     *
     *
 
 #### Version 2
 
-#### Version 3
+
 </details>
 
 ---
