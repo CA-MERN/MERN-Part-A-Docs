@@ -18,15 +18,6 @@
 ##### Server Repository: https://github.com/Shelby219/MERN-server
 
 ---
-#### Index:
-* [**Description**](#Description) 
-* [**Dataflow Diagram**](#Dataflow-Diagram) 
-* [**Application Architecture Diagram**](#Application-Architecture-Diagram) 
-* [**User Stories**](#User-Stories) 
-* [**Wireframes**](#Wireframes) 
-* [**Project Management**](#Project-Management) 
-
----
 ### Purpose
 
 <details>
