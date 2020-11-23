@@ -67,30 +67,39 @@
 ### Tech stack
 <details><summary>Click to expand</summary>
 
-* Design and Planning
-    * Trello
-    * Figma
-    * xtensio
-    * Draw.io
-            
-* Frontend
-    * React
-    * HTML CSS
-    * Materialize UI
-    * Bootstrap
-    * HTML
-    * SCSS
-    * JavaScript
+**Design and Planning**
+* Trello
+* Figma
+* xtensio
+* Draw.io  
+* Slack   
 
-* Backend
-    * MongoDB
-    * ExpressJS
-    * Node JS
+**Frontend**
+* HTML5
+* CSS3
+* React JS
+* JavaScript
+* JSX
+* Material-UI
+* Bootstrap
+* Axios
 
-* Other
-    * Edamam API
-    * Heroku
-    * Netlify
+**Backend**
+* ExpressJS
+* Node JS
+
+**Database**
+* MongoDB
+* Mongoose
+
+**Testing**
+* Cypress
+* Supertest
+
+**Other**
+* Edamam API
+* Heroku
+* Netlify
 </details>
 
 ---
