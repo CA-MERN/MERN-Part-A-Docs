@@ -11,18 +11,18 @@
 
 ##### Deployed App: 
 
-##### Documentation Repository: https://github.com/Shelby219/MERN-Part-A-Docs
+##### Documentation Repository: https://github.com/CA-MERN/MERN-Part-A-Docs
 
-##### Client Repository: https://github.com/Shelby219/MERN-client
+##### Client Repository: https://github.com/CA-MERN/MERN-client
 
-##### Server Repository: https://github.com/Shelby219/MERN-server
+##### Server Repository: https://github.com/CA-MERN/MERN-server
 
 ---
 ### Purpose
 <details>
 <summary>Click to expand</summary>
 
-The purpose of this application is for users to be able to enter ingredients which are always on their grocery list/fridge with the intent to search for recipes made up from those ingredients. The idea for this web application stemmed from the situation of the first Australiam lockdown of Covid19, in which stores sold out of a lot of popular and favourite grocery items of customers. An application such as this means users can input the ingredients they have currently at home and recipes including these ingredients will be displayed. Along side this factor is the need for users to stick to a grocery budget, so they do not want to be constantly going to the store to get expensive ingredients. Also the type of users using this app are ones that need recipe inspiration for their weekly meals, ones that search recipes based on dietary requirements and excluded ingredients, and also users that are new to the cooking scene and want to start with cooking by just utilising ingredients already at home. This app can help to minimise food waste by helping users to combine items they may not have made a meal with otherwise.
+The purpose of this application is for users to be able to enter ingredients which are always on their grocery list/fridge with the intent to search for recipes made up from those ingredients. The idea for this web application stemmed from the situation of the first Australian lockdown of Covid19, in which stores sold out of a lot of popular and favourite grocery items of customers. An application such as this means users can input the ingredients they have currently at home and recipes including these ingredients will be displayed. Along side this factor is the need for users to stick to a grocery budget, so they do not want to be constantly going to the store to get expensive ingredients. Also the type of users using this app are ones that need recipe inspiration for their weekly meals, ones that search recipes based on dietary requirements and excluded ingredients, and also users that are new to the cooking scene and want to start with cooking by just utilising ingredients already at home. This app can help to minimise food waste by helping users to combine items they may not have made a meal with otherwise.
 
 The overall goal of this application is a search application based on user ingredient lists, with the ability to save those recipes, like and review recipes. 
 
@@ -214,9 +214,6 @@ Preferred Content Types
 * As an overall user I can navigate to <a id="mypreferences">My Preferences page</a> and:
     * enter/update preferred dietary requirements (eg vegetarian).
     * enter/update preferred dietary restrictions (eg no nuts).
-
-what?     * Once an initial search is done, I want see 'refresh again'
-
 
 ##### Sarah 
 * As a mother and busy worker…
