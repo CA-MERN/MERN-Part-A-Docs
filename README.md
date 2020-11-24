@@ -71,39 +71,6 @@ The overall goal of this application is a search application based on user ingre
 ### Target audience
 <details><summary>Click to expand</summary>
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-* Key Demographics
-    - Gender: Anyone, but predominantly women.
-=======
-Key Demographics
-    - Gender: Anyone, predominantly women.
->>>>>>> 8852535317198f2ad0a475c4bcedf09c5fe29258
-    - Age: 20-55.
-    - Family status: Cooking for self, partner or dependents.
-    - Profession: Students, professionals and homemakers.
-    - Language: English.
-    - Main interests: cooking, health, diet, low waste, saving money, trying new things.
-
-* Key Psychographics
-    - Dislikes repetitive meals, like variety and new options.
-    - Dislikes spending lots of money on lots of ingredients and food waste.
-    - Enjoys sharing and preparing meals.
-
-* Challenges
-    - Finds it difficult to create recipes
-    - Has a limited food budget or limited access to ingredients
-    - Has an interest in cooking but limitations (eg budget, dietary restrictions, skill).
-
-* Preferred Channels
-     - Follows celebrity chefs and food themed accounts on social media.
-     - Searches for recipes/blogs on Google.
-
-* Preferred Content Types
-    - Articles.
-    - Blog posts.
-    - Social media posts.
-=======
 **Key Demographics**
 * Gender: Anyone, predominantly women.
 * Age: 20-55.
@@ -130,7 +97,7 @@ Key Demographics
 * Articles.
 * Blog posts.
 * Social media posts.
->>>>>>> 26ed972f2207cd1b1d7334ab5da008b6c7d1f471
+
 
 </details>
 
