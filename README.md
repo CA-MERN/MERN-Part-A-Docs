@@ -60,6 +60,10 @@ The overall goal of this application is a search application based on user ingre
 * Oauth with signup and login. 
 * Recipes of the week on the home page
 * Saved recipes in recipe collections
+* categories for ingredients
+* filter saved recipes by breakfast/lunch/dinner/snacks.
+* review recipe
+* view best recipes
 
 </details>
 
@@ -68,7 +72,7 @@ The overall goal of this application is a search application based on user ingre
 <details><summary>Click to expand</summary>
 
 Key Demographics
-    - Gender: Anyone, but predominantly women.
+    - Gender: Anyone, predominantly women.
     - Age: 20-55.
     - Family status: Cooking for self, partner or dependents.
     - Profession: Students, professionals and homemakers.
@@ -158,32 +162,61 @@ Preferred Content Types
 ![Liza Persona](persons/Eliza.png)
 ![Bez Persona](persons/bez2.png)
 
-#### Version 1
+#### Version 1 - MVP
 ##### Overall User
-* As a overall user:
-    * I can go to the home page signup to create an account
-    * I can login
-    * I can navigate to my account settings and edit my account details
-    * I can navigate to the account settings and delete the account
-    * I can navigate to my dash and see what recipes I have interacted with (vote, save, reviewed) so I can quickly access/reaccess them later.
-    * I can navigate to my dash and see my current groceries organised by category
-    * I can navigate to my dashboard and see my current pantry staples
-    * I can navigate to main interface and see 'get searching today'!
-    * Once an initial search is done, I want see 'refresh again'
-    * From main interface  I can make a recipe search 
-    * From main interface I can navigate to my grocery lists
-    * From main interface I can navigate to my saved recipes
-    * I can add more groceries with predictive input
-    * I can delete groceries from my list
-    * I can clear all of my grocery list
-    * I can see my recipes returned search with them categories in breakfast, lunch and dinner
-    * I can further filter by diet (eg vegan) and prep time
-    * I can see my recipes returned via list with image, name, time and calories
-    * I can click go to recipe
-    * I can click a like heart on the recipe
-    * On a clicked recipe page I can click the save recipe button
-    * On a clicked recipe page I can view the whole recipe
-    * On a clicked recipe page I can rate the recipe
+ 
+</p>
+* As a overall user who is not logged in I can navigate to the home page and:
+    * click "Login/Sign Up" and get a pop up.
+    * login/sign up using Google Oauth or email/password details.
+    * click on any link and be prompted to log in/sign up with a popup. 
+
+* As a overall, logged in user I can navigate to the home page and:
+    * navigate to my <a href="#accsettings">account settings</a>.
+    * search recipes and be redirected to <a href="searchresults">search results</a>. 
+
+* As a overall user I navigate to my <a id="accsettings">account settings and:</a>
+    * edit my account details.
+    * delete my account.
+
+* As an overall user I can see my dash on all pages (once logged in) and:
+    * navigate to <a href="myfridge">My Fridge</a> page.
+    * navigate to <a href="mypantry">My Pantry Staples</a> page.
+    * navigate to <a href="mysaved">My Saved Recipes</a> page.
+    * search recipes and be redirected to <a href="searchresults">search results</a>.
+    * navigate to the <a href="mypreferences">My Preferences</a> page.
+
+* As an overall user I can navigate to <a id="myfridge">My Fridge page</a> and:
+    * remove all items from my list with the "Empty My Fridge" button, which will confirm my choice.
+    * add ingredients to my list using predictive input.
+    * remove ingredients from my list.
+    * search for recipes by pressing the "search" button and be redirected to the <a href="seachresults">results</a> page.
+  
+* As an overall user I can navigate to <a id="mypantry">My Pantry Staples page</a> and:
+    * add a pantry staple.
+    * delete a pantry staple.
+
+* As an overall user I can navigate to <a id="mysaved">My Saved Recipes page</a> and:
+    * view my saved recipes with their name, category and preparation time.
+    * navigate to a <a href="single">single recipe's</a> page.
+
+* As an overall user, when redirected to the <a id="searchresults">search result</a> page I can:
+    * view returned results with their name, category and preparation time.
+    * navigate to a <a href="single">single recipe's</a> page.
+    * filter results with the filter button, returning a pop up with filter choices.
+    
+* As an overall user I can navigate to a <a id="single">single recipe page</a> and:
+    * view full details of a recipe including original web address, average user rating, category, preparation time, servings, calories, ingredients, preparation and photo.
+    * navigate to the original web address.
+    * view how many ingredients I have and how many are required (ie "You have 7/10 required ingredients").
+    * rate a recipe.
+
+* As an overall user I can navigate to <a id="mypreferences">My Preferences page</a> and:
+    * enter/update preferred dietary requirements (eg vegetarian).
+    * enter/update preferred dietary restrictions (eg no nuts).
+
+what?     * Once an initial search is done, I want see 'refresh again'
+
 
 ##### Sarah 
 * As a mother and busy worker…
@@ -197,10 +230,10 @@ Preferred Content Types
 
 ##### Wayne 
 * As a full-time worker and novice chef...
-    * I would like to view times on recipes when deciding what to try.
-    * I can see other user's reviews on recipes to decide if I will try it.
+    * I would like to view times on recipes when deciding what to try to cook.
     * I would like a simple interface without confusing options.
-    * I would like to limit the amount of ingredients in recipes I search.
+    * I would like the app to remember my items so I do not need to reenter staples.
+    * I would like to see how many ingredients are missing when selecting a recipe.
     
 ##### Eliza 
 * As a student and vegetarian…
@@ -210,12 +243,28 @@ Preferred Content Types
   
 ##### Bez 
 * As a chef with an egg surplus, an interest in learning different ways to cook them and some extra time for cooking...
+    * I would like to save recipes for later.
+    * I would like to see how many more ingredients I need without reading the whole recipe.
+    * I would like to filter searches by how long a recipe takes, for when I have more/less time.
+
+#### Version 2 - Extra Features
+
+##### Sarah 
+* As a mother and busy worker…
+
+##### Wayne 
+* As a full-time worker and novice chef...
+    * I can see other user's reviews on recipes to decide if I will try it.
+    * I would like to limit the amount of ingredients in recipes I search.
+
+##### Eliza 
+* As a student and vegetarian…
+
+##### Bez 
+* As a chef with an egg surplus, an interest in learning different ways to cook them and some extra time for cooking...
     * I would like to search for a recipe by dish type (eg soup) and ingredients.
     * I would like to search for recipes without an ingredient, for when I am sick of eggs.
     * I would like to search recipes by cuisine type (eg Spanish) so I can choose matching music.
-
-#### Version 2
-
 
 </details>
 
