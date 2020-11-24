@@ -307,15 +307,15 @@ Key Demographics
 <details><summary>Click to expand</summary>
 
 #### Mobile
-![Mobile Wireframe 1](wireframes/mobile.jpg)
+![Mobile Wireframe 1](wireframes/v1/mobile.jpg)
 #### Tablet
-![Tablet Wireframe 1](wireframes/tablet.jpg)
+![Tablet Wireframe 1](wireframes/v1/tablet.jpg)
 #### Desktop
-![Desktop Wireframe 1](wireframes/desktop.jpg)
+![Desktop Wireframe 1](wireframes/v1/desktop.jpg)
 #### Nav and Footer
-![Nav and Footer](wireframes/nav_footer.jpg)
+![Nav and Footer](wireframes/v1/nav_footer.jpg)
 #### Pop Out Windows
-![Pop Out Windows](wireframes/pop_out.jpg)
+![Pop Out Windows](wireframes/v1/pop_out.jpg)
 </details>
 
 
