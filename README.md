@@ -166,6 +166,7 @@ The overall goal of this application is a search application based on user ingre
 ##### Overall User
  
 </p>
+
 * As a overall user who is not logged in I can navigate to the home page and:
     * click "Login/Sign Up" and get a pop up.
     * login/sign up using Google Oauth or email/password details.
