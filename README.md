@@ -34,36 +34,72 @@ The overall goal of this application is a search application based on user ingre
 <summary>Click to expand</summary>
 
 #### MVP Features
-* User accounts
-    * Signup
+* User Authentication & Account
+    * SignUp
     * Login
     * Logout
-    * Edit details
+    * Edit account details in account settings.
     * Delete account.
-* User dashboard
-    * Default Pantry Staples List which can also be add or deleted. (like salt, pepper, olive oil, vinegar)  
+    * Edit user preferences for diet and health labels. 
+* Navigation Bar
+    * When not signed in can navigate to Sign up/login pop out windows
+    * When not signed in the other nav links forward to to Sign up/login pop out windows
+    * When signed in can navigate to 'My Fridge'
+    * When signed in can navigate to 'My Pantry Staples'
+    * When signed in can navigate to 'My Preferences'
+    * When signed in can click the Search Recipes button and will forward to recipe page.
+* Home Page
+    * Random food joke displayed each fresh from API
+    * Get Searching Today link with either returns recipe page or link to sign up.
+* My Fridge Page
+    * Can add new ingredients
+    * Can delete ingredients
+    * Can clear whole fridge list with a warning alert before submitting
+    * Predictive text on the ingredient input.
     * View grocery list by category.
-    * Recipe interaction (saved, liked, reviewed).
-* Main Application
-    * Grocery input, add and delete. Implement predictive search.
-    * Implement alternate ingredient middleware matching eg. Cilantro = coriander if API does not have in place. 
-    * Recipe search button on main interface.
+* Pantry Staples Page
+    * Starts off with default staples (like salt, pepper, olive oil, vinegar)
+    * Can add new staples
+    * Can delete staples
+* Returned Recipe Search Page
+    * View list of returned recipes based on the users fridge and pantry contents.
+    * Title of the page is how many recipes the user can make.
+    * Each recipe you can see name, image, prep time and rating.
+    * Each recipe you can see how many ingredients you have to make it eg. "You have 4/8 ingredients".
+    * Filter feature used to filter recipes, this include diet, health labels, cuisine and prep time. 
+    * Save option under each recipe to save to users recipe collection. 
+* Single Recipe page
+    * The recipe information includes name, image, source, prep time, servings and calories per serving. 
+    * Ingredients are listed.
+    * Link to full directions displayed
+    * Button to save the recipe to user collection. 
+    * If the recipe is in the users saved collection display data from that, else call the food API.
+* Account Settings
+    * User can update their profile picture, name, email and password. 
+    * Current data gets preloaded as placeholder.
+    * Save button then loads and alerts the user of saved. 
+* Preferences
+    * The user can preset diet and health preferences which will automatically be used to filter the recipes returned. 
+* Saved Recipes
+    * Each recipe you can see name, image, category, rep time and rating.
     * Return recipes in sorted categories (breakfast, lunch, dinner).
-    * Filter feature used for diet filter, prep time . 
-    * Save recipes to favourites.
-    * Vote and review on best recipes.
-</p>
-
+    * Filter buttons at the top to show dishes based off Breakfast, lunch, dinner, snack.
+    * Click on the recipe to go to single recipe page and display recipe data from saved data.
+* Smart Features
+    * Implement alternate ingredient middleware matching eg. Cilantro = coriander if API does not have in place. 
+    * Implement if search recipes is click, but the user has no 
+   
 #### Nice to Have Features
-* Search History capture.
-* User can add a photo of their cooked dish, public or private collection. 
-* Oauth with signup and login. 
+* Search History capture
+* Oauth with signup and login
 * Recipes of the week on the home page
-* Saved recipes in recipe collections
-* categories for ingredients
-* filter saved recipes by breakfast/lunch/dinner/snacks.
-* review recipe
-* view best recipes
+* Different collections for saved recipes
+* Categories for ingredients
+* Filter saved recipes by breakfast/lunch/dinner/snacks
+* User can rate a recipe
+* User can write a review on a recipe( including picture)
+* Profile
+ 
 
 </details>
 
