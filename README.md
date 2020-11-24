@@ -205,7 +205,7 @@ Preferred Content Types
     * navigate to a <a href="#single">single recipe's</a> page.
     * filter results with the filter button, returning a pop up with filter choices.
     
-* As an overall user I can navigate to a <a id="#single">single recipe page</a> and:
+* As an overall user I can navigate to a <a id="single">single recipe page</a> and:
     * view full details of a recipe including original web address, average user rating, category, preparation time, servings, calories, ingredients, preparation and photo.
     * navigate to the original web address.
     * view how many ingredients I have and how many are required (ie "You have 7/10 required ingredients").
