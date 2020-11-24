@@ -173,24 +173,24 @@ Preferred Content Types
 
 * As a overall, logged in user I can navigate to the home page and:
     * navigate to my <a href="#accsettings">account settings</a>.
-    * search recipes and be redirected to <a href="searchresults">search results</a>. 
+    * search recipes and be redirected to <a href="#searchresults">search results</a>. 
 
 * As a overall user I navigate to my <a id="accsettings">account settings and:</a>
     * edit my account details.
     * delete my account.
 
 * As an overall user I can see my dash on all pages (once logged in) and:
-    * navigate to <a href="myfridge">My Fridge</a> page.
-    * navigate to <a href="mypantry">My Pantry Staples</a> page.
-    * navigate to <a href="mysaved">My Saved Recipes</a> page.
-    * search recipes and be redirected to <a href="searchresults">search results</a>.
-    * navigate to the <a href="mypreferences">My Preferences</a> page.
+    * navigate to <a href="#myfridge">My Fridge</a> page.
+    * navigate to <a href="#mypantry">My Pantry Staples</a> page.
+    * navigate to <a href="#mysaved">My Saved Recipes</a> page.
+    * search recipes and be redirected to <a href="#searchresults">search results</a>.
+    * navigate to the <a href="#mypreferences">My Preferences</a> page.
 
 * As an overall user I can navigate to <a id="myfridge">My Fridge page</a> and:
     * remove all items from my list with the "Empty My Fridge" button, which will confirm my choice.
     * add ingredients to my list using predictive input.
     * remove ingredients from my list.
-    * search for recipes by pressing the "search" button and be redirected to the <a href="seachresults">results</a> page.
+    * search for recipes by pressing the "search" button and be redirected to the <a href="#searchresults">results</a> page.
   
 * As an overall user I can navigate to <a id="mypantry">My Pantry Staples page</a> and:
     * add a pantry staple.
@@ -198,14 +198,14 @@ Preferred Content Types
 
 * As an overall user I can navigate to <a id="mysaved">My Saved Recipes page</a> and:
     * view my saved recipes with their name, category and preparation time.
-    * navigate to a <a href="single">single recipe's</a> page.
+    * navigate to a <a href="#single">single recipe's</a> page.
 
 * As an overall user, when redirected to the <a id="searchresults">search result</a> page I can:
     * view returned results with their name, category and preparation time.
-    * navigate to a <a href="single">single recipe's</a> page.
+    * navigate to a <a href="#single">single recipe's</a> page.
     * filter results with the filter button, returning a pop up with filter choices.
     
-* As an overall user I can navigate to a <a id="single">single recipe page</a> and:
+* As an overall user I can navigate to a <a id="#single">single recipe page</a> and:
     * view full details of a recipe including original web address, average user rating, category, preparation time, servings, calories, ingredients, preparation and photo.
     * navigate to the original web address.
     * view how many ingredients I have and how many are required (ie "You have 7/10 required ingredients").
