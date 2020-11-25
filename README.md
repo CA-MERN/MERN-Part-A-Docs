@@ -349,4 +349,5 @@ The overall goal of this application is a search application based on user ingre
 ![Trello Screen Shot 1](screenshots/trello1.png)
 ![Trello Screen Shot 2](screenshots/trello2.png)
 ![Trello Screen Shot 3](screenshots/trello3.png)
+![Trello Screen Shot 4](screenshots/trello4.png)
 </details>
