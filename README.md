@@ -185,7 +185,7 @@ The overall goal of this application is a search application based on user ingre
 ---
 ### Application Architecture Diagram
 <details><summary>Click to expand</summary>
-![Application Architecture Diagram](App Architecture Diagram-CA_MERN.png)
+![Application Architecture Diagram](diagrams/App Architecture Diagram-CA_MERN.png)
 </details>
 
 ---
