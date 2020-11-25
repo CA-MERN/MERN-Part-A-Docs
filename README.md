@@ -68,6 +68,7 @@ The overall goal of this application is a search application based on user ingre
     * Each recipe you can see how many ingredients you have to make it eg. "You have 4/8 ingredients".
     * Filter feature used to filter recipes, this include diet, health labels, cuisine and prep time. 
     * Save option under each recipe to save to users recipe collection. 
+    * Maybe if recipe in users saved collection, alert on screen(change button colour)
 * Single Recipe page
     * The recipe information includes name, image, source, prep time, servings and calories per serving. 
     * Ingredients are listed.
@@ -87,7 +88,6 @@ The overall goal of this application is a search application based on user ingre
     * Click on the recipe to go to single recipe page and display recipe data from saved data.
 * Smart Features
     * Implement alternate ingredient middleware matching eg. Cilantro = coriander if API does not have in place. 
-    * Implement if search recipes is click, but the user has no 
    
 #### Nice to Have Features
 * Search History capture
@@ -185,7 +185,7 @@ The overall goal of this application is a search application based on user ingre
 ---
 ### Application Architecture Diagram
 <details><summary>Click to expand</summary>
-![Application Architecture Diagram](app-arch-diagram.png)
+![Application Architecture Diagram](App Architecture Diagram-CA_MERN.png)
 </details>
 
 ---
