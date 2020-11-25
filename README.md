@@ -337,7 +337,7 @@ The overall goal of this application is a search application based on user ingre
 ![Tablet Wireframe 1](screenshots/Tablet1.png)
 #### Desktop
 ![Desktop Wireframe 1](screenshots/Desktop1.png)
-
+             
 </details>
 
 ---
