@@ -315,7 +315,7 @@ The overall goal of this application is a search application based on user ingre
 <details><summary>Click to expand</summary>
 
 #### Mobile
-![Mobile Wireframe 1](wireframes/v1/mobile.jpg)
+![Mobile Wireframe 1](wireframes/v1/mobilewv1.jpg)    
 #### Tablet
 ![Tablet Wireframe 1](wireframes/v1/tablet.jpg)
 #### Desktop
@@ -325,7 +325,7 @@ The overall goal of this application is a search application based on user ingre
 #### Pop Out Windows
 ![Pop Out Windows](wireframes/v1/pop_out.jpg)
 </details>
-
+        
 
 #### Version 2
 
@@ -337,7 +337,7 @@ The overall goal of this application is a search application based on user ingre
 ![Tablet Wireframe 1](screenshots/Tablet1.png)
 #### Desktop
 ![Desktop Wireframe 1](screenshots/Desktop1.png)
-
+             
 </details>
 
 ---
@@ -349,4 +349,5 @@ The overall goal of this application is a search application based on user ingre
 ![Trello Screen Shot 1](screenshots/trello1.png)
 ![Trello Screen Shot 2](screenshots/trello2.png)
 ![Trello Screen Shot 3](screenshots/trello3.png)
+![Trello Screen Shot 4](screenshots/trello4.png)
 </details>
