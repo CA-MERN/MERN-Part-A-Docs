@@ -68,6 +68,7 @@ The overall goal of this application is a search application based on user ingre
     * Each recipe you can see how many ingredients you have to make it eg. "You have 4/8 ingredients".
     * Filter feature used to filter recipes, this include diet, health labels, cuisine and prep time. 
     * Save option under each recipe to save to users recipe collection. 
+    * Maybe if recipe in users saved collection, alert on screen(change button colour)
 * Single Recipe page
     * The recipe information includes name, image, source, prep time, servings and calories per serving. 
     * Ingredients are listed.
@@ -87,7 +88,6 @@ The overall goal of this application is a search application based on user ingre
     * Click on the recipe to go to single recipe page and display recipe data from saved data.
 * Smart Features
     * Implement alternate ingredient middleware matching eg. Cilantro = coriander if API does not have in place. 
-    * Implement if search recipes is click, but the user has no 
    
 #### Nice to Have Features
 * Search History capture
@@ -184,8 +184,10 @@ The overall goal of this application is a search application based on user ingre
 
 ---
 ### Application Architecture Diagram
+
 <details><summary>Click to expand</summary>
-![Application Architecture Diagram](app-arch-diagram.png)
+
+![Application-Architecture-Diagram](./diagrams/aad.png)
 </details>
 
 ---
@@ -217,7 +219,7 @@ The overall goal of this application is a search application based on user ingre
     * edit my account details.
     * delete my account.
 
-* As an overall user I can see my dash on all pages (once logged in) and:
+* As an overall user I can see my side navigation on all pages and:
     * navigate to <a href="#myfridge">My Fridge</a> page.
     * navigate to <a href="#mypantry">My Pantry Staples</a> page.
     * navigate to <a href="#mysaved">My Saved Recipes</a> page.
@@ -236,15 +238,17 @@ The overall goal of this application is a search application based on user ingre
 
 * As an overall user I can navigate to <a id="mysaved">My Saved Recipes page</a> and:
     * view my saved recipes with their name, category and preparation time.
+    * delete a saved recipe
     * navigate to a <a href="#single">single recipe's</a> page.
 
 * As an overall user, when redirected to the <a id="searchresults">search result</a> page I can:
     * view returned results with their name, category and preparation time.
     * navigate to a <a href="#single">single recipe's</a> page.
     * filter results with the filter button, returning a pop up with filter choices.
+    * click save recipe
     
 * As an overall user I can navigate to a <a id="single">single recipe page</a> and:
-    * view full details of a recipe including original web address, average user rating, category, preparation time, servings, calories, ingredients, preparation and photo.
+    * view full details of a recipe including original web address, average user rating, category, preparation time, servings, calories, ingredients, link to full directions and photo.
     * navigate to the original web address.
     * view how many ingredients I have and how many are required (ie "You have 7/10 required ingredients").
     * rate a recipe.
