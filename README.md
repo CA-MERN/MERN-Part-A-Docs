@@ -315,7 +315,7 @@ The overall goal of this application is a search application based on user ingre
 <details><summary>Click to expand</summary>
 
 #### Mobile
-![Mobile Wireframe 1](wireframes/v1/mobile.jpg)
+![Mobile Wireframe 1](wireframes/v1/mobile1.jpg)    
 #### Tablet
 ![Tablet Wireframe 1](wireframes/v1/tablet.jpg)
 #### Desktop
@@ -325,7 +325,7 @@ The overall goal of this application is a search application based on user ingre
 #### Pop Out Windows
 ![Pop Out Windows](wireframes/v1/pop_out.jpg)
 </details>
-
+        
 
 #### Version 2
 
