@@ -186,7 +186,8 @@ The overall goal of this application is a search application based on user ingre
 ### Application Architecture Diagram
 
 <details><summary>Click to expand</summary>
-![Application-Architecture-Diagram](diagrams/aad.png)
+
+![Application-Architecture-Diagram](./diagrams/aad.png)
 </details>
 
 ---
