@@ -178,8 +178,10 @@ The overall goal of this application is a search application based on user ingre
 
 ---
 ### Dataflow Diagram
+
 <details><summary>Click to expand</summary>
-![Dataflow Diagram](DataflowDiagram.png)
+
+![Dataflow-Diagram](./diagrams/DFD.jpeg)
 </details>
 
 ---
