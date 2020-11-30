@@ -160,6 +160,9 @@ The overall goal of this application is a search application based on user ingre
 **Backend**
 * ExpressJS
 * Node JS
+* Passport
+* Passport-JWT
+* Express Session
 
 **Database**
 * MongoDB
@@ -168,6 +171,7 @@ The overall goal of this application is a search application based on user ingre
 **Testing**
 * Cypress
 * Supertest
+* Mocha
 
 **Other**
 * Edamam API or Spoonacular
@@ -349,12 +353,11 @@ The overall goal of this application is a search application based on user ingre
 ![Trello Screen Shot 2](screenshots/trello2.png)
 ![Trello Screen Shot 3](screenshots/trello3.png)
 ![Trello Screen Shot 4](screenshots/trello4.png)
+![Trello Screen Shot 5](screenshots/trello5.png)
 </details>
 
 #### Application Planning
 <details><summary>Click to expand</summary>
-
-![Trello Screen Shot 5](screenshots/trello5.png)
 ![Trello Screen Shot 6](screenshots/trello6.png)
 ![Trello Screen Shot 7](screenshots/trello7.png)
 
