@@ -349,6 +349,7 @@ The overall goal of this application is a search application based on user ingre
 ### Project Management- Trello
 
 #### Documentation Planning
+
 <details><summary>Click to expand</summary>
 
 ![Trello Screen Shot 1](screenshots/trello1.png)
@@ -359,7 +360,9 @@ The overall goal of this application is a search application based on user ingre
 </details>
 
 #### Application Planning
+
 <details><summary>Click to expand</summary>
+
 ![Trello Screen Shot 6](screenshots/trello6.png)
 ![Trello Screen Shot 7](screenshots/trello7.png)
 
