@@ -56,7 +56,6 @@ The overall goal of this application is a search application based on user ingre
     * Can delete ingredients
     * Can clear whole fridge list with a warning alert before submitting
     * Predictive text on the ingredient input.
-    * View grocery list by category.
 * Pantry Staples Page
     * Starts off with default staples (like salt, pepper, olive oil, vinegar)
     * Can add new staples
@@ -94,7 +93,7 @@ The overall goal of this application is a search application based on user ingre
 * Oauth with signup and login
 * Recipes of the week on the home page
 * Different collections for saved recipes
-* Categories for ingredients
+* Categories for ingredients in Fridge
 * Filter saved recipes by breakfast/lunch/dinner/snacks
 * User can rate a recipe
 * User can write a review on a recipe( including picture)
@@ -143,9 +142,9 @@ The overall goal of this application is a search application based on user ingre
 
 **Design and Planning**
 * Trello
-* Figma
+* Miro
 * xtensio
-* Draw.io  
+* Lucid Chart  
 * Slack   
 
 **Frontend**
@@ -171,7 +170,7 @@ The overall goal of this application is a search application based on user ingre
 * Supertest
 
 **Other**
-* Edamam API
+* Edamam API or Spoonacular
 * Heroku
 * Netlify
 </details>
@@ -341,13 +340,22 @@ The overall goal of this application is a search application based on user ingre
 </details>
 
 ---
-### Project Management
-#### Trello Screenshots
+### Project Management- Trello
 
+#### Documentation Planning
 <details><summary>Click to expand</summary>
 
 ![Trello Screen Shot 1](screenshots/trello1.png)
 ![Trello Screen Shot 2](screenshots/trello2.png)
 ![Trello Screen Shot 3](screenshots/trello3.png)
 ![Trello Screen Shot 4](screenshots/trello4.png)
+</details>
+
+#### Application Planning
+<details><summary>Click to expand</summary>
+
+![Trello Screen Shot 5](screenshots/trello5.png)
+![Trello Screen Shot 6](screenshots/trello6.png)
+![Trello Screen Shot 7](screenshots/trello7.png)
+
 </details>
