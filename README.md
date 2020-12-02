@@ -85,21 +85,6 @@ The overall goal of this application is a search application based on user ingre
     * Return recipes in sorted categories (breakfast, lunch, dinner).
     * Filter buttons at the top to show dishes based off Breakfast, lunch, dinner, snack.
     * Click on the recipe to go to single recipe page and display recipe data from saved data.
-<<<<<<< HEAD
-* Smart Features
-    * Implement alternate ingredient middleware matching eg. Cilantro = coriander if API does not have in place. 
-    * Filter saved recipes by breakfast/lunch/dinner/snacks
-   
-#### Nice to Have Features
-* Search History capture
-* Oauth with signup and login
-* Recipes of the week on the home page
-* Different collections for saved recipes
-* Categories for ingredients in Fridge
-* User can rate a recipe
-* User can write a review on a recipe( including picture)
-
-=======
 * Smart Features:
     * Implement alternate ingredient middleware matching e.g. Cilantro = coriander if API does not have in place. 
    
@@ -113,8 +98,7 @@ The overall goal of this application is a search application based on user ingre
 * User can rate a recipe.
 * User can write a review on a recipe (including picture).
 * Profile.
->>>>>>> b9b162951369d21a03fef9a131f7717d19c446ba
- 
+
 
 </details>
 
