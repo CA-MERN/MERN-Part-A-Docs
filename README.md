@@ -415,7 +415,6 @@ The overall goal of this application is a search application based on user ingre
 ![settings](prototypes/settings.png)  
 ![pop-outs](prototypes/pop-outs.png)  
 
-
 </details>
 
 ---
