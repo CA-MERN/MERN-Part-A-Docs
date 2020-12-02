@@ -85,6 +85,21 @@ The overall goal of this application is a search application based on user ingre
     * Return recipes in sorted categories (breakfast, lunch, dinner).
     * Filter buttons at the top to show dishes based off Breakfast, lunch, dinner, snack.
     * Click on the recipe to go to single recipe page and display recipe data from saved data.
+<<<<<<< HEAD
+* Smart Features
+    * Implement alternate ingredient middleware matching eg. Cilantro = coriander if API does not have in place. 
+    * Filter saved recipes by breakfast/lunch/dinner/snacks
+   
+#### Nice to Have Features
+* Search History capture
+* Oauth with signup and login
+* Recipes of the week on the home page
+* Different collections for saved recipes
+* Categories for ingredients in Fridge
+* User can rate a recipe
+* User can write a review on a recipe( including picture)
+
+=======
 * Smart Features:
     * Implement alternate ingredient middleware matching e.g. Cilantro = coriander if API does not have in place. 
    
@@ -98,6 +113,7 @@ The overall goal of this application is a search application based on user ingre
 * User can rate a recipe.
 * User can write a review on a recipe (including picture).
 * Profile.
+>>>>>>> b9b162951369d21a03fef9a131f7717d19c446ba
  
 
 </details>
@@ -144,6 +160,7 @@ The overall goal of this application is a search application based on user ingre
 * Trello
 * Miro
 * xtensio
+* Framer
 * Lucid Chart  
 * Slack   
 
@@ -169,14 +186,15 @@ The overall goal of this application is a search application based on user ingre
 * Mongoose
 
 **Testing**
-* Cypress
-* Supertest
-* Mocha
+* Cypress- Front-end
+* Supertest- Back-end
+* Mocha- Back-end
 
 **Other**
 * Edamam API or Spoonacular
 * Heroku
 * Netlify
+
 </details>
 
 ---
@@ -203,22 +221,58 @@ The overall goal of this application is a search application based on user ingre
 ---
 ### User Stories
 
-<details><summary>Click to expand</summary>
 
 #### Personas
+<details><summary>Click to expand</summary>
+
 ![Sarah Persona](persons/sarah.png)
 ![Wayne Persona](persons/wayne.png)
 ![Liza Persona](persons/Eliza.png)
 ![Bez Persona](persons/bez2.png)
 
-#### Version 1 - MVP
-##### Overall User
- 
-</p>
+</details>
 
+#### Draft Stories
+
+<details><summary>Click to expand</summary>
+
+* As a overall user:
+    * I can go to the home page signup to create an account
+    * I can login
+    * I can navigate to my account settings and edit my account details
+    * I can navigate to the account settings and delete the account
+    * I can navigate to my dash and see what recipes I have interacted with (vote, save, reviewed) so I can quickly access/reaccess them later.
+    * I can navigate to my dash and see my current groceries organised by category
+    * I can navigate to my dashboard and see my current pantry staples
+    * I can navigate to main interface and see 'get searching today'!
+    * Once an initial search is done, I want see 'refresh again'
+    * From main interface  I can make a recipe search 
+    * From main interface I can navigate to my grocery lists
+    * From main interface I can navigate to my saved recipes
+    * I can add more groceries with predictive input
+    * I can delete groceries from my list
+    * I can clear all my grocery list
+    * I can clear all of my grocery list
+    * I can see my recipes returned search with them categories in breakfast, lunch and dinner
+    * I can further filter by diet (eg vegan) and prep time
+    * I can see my recipes returned via list with image, name, time and calories
+    * I can click go to recipe
+    * I can click a like heart on the recipe
+    * On a clicked recipe page I can click the save recipe button
+    * On a clicked recipe page I can view the whole recipe
+    * On a clicked recipe page I can rate the recipe
+
+</details>
+
+
+#### MVP
+ 
+<details><summary>Click to expand</summary>
+
+
+##### Overall User
 * As a overall user who is not logged in I can navigate to the home page and:
     * click "Login/Sign Up" and get a pop up.
-    * login/sign up using Google Oauth or email/password details.
     * click on any link and be prompted to log in/sign up with a popup. 
 
 * As a overall, logged in user I can navigate to the home page and:
@@ -260,8 +314,7 @@ The overall goal of this application is a search application based on user ingre
 * As an overall user I can navigate to a <a id="single">single recipe page</a> and:
     * view full details of a recipe including original web address, average user rating, category, preparation time, servings, calories, ingredients, link to full directions and photo.
     * navigate to the original web address.
-    * view how many ingredients I have and how many are required (i.e. "You have 7/10 required ingredients").
-    * rate a recipe.
+    * view how many ingredients I have and how many are required (ie "You have 7/10 required ingredients").
 
 * As an overall user I can navigate to <a id="mypreferences">My Preferences page</a> and:
     * enter/update preferred dietary requirements (e.g. vegetarian).
@@ -296,25 +349,38 @@ The overall goal of this application is a search application based on user ingre
     * I would like to see how many more ingredients I need without reading the whole recipe.
     * I would like to filter searches by how long a recipe takes, for when I have more/less time.
 
-#### Version 2 - Extra Features
 
-##### Sarah 
-* As a mother and busy worker…
+</details>
 
-##### Wayne 
-* As a full-time worker and novice chef...
-    * I can see other user's reviews on recipes to decide if I will try it.
-    * I would like to limit the amount of ingredients in recipes I search.
 
-##### Eliza 
-* As a student and vegetarian…
+#### Nice to have Extra Features
+ 
+<details><summary>Click to expand</summary>
 
-##### Bez 
-* As a chef with an egg surplus, an interest in learning different ways to cook them and some extra time for cooking...
-    * I would like to search for a recipe by dish type (e.g. soup) and ingredients.
-    * I would like to search for recipes without an ingredient, for when I am sick of eggs.
-    * I would like to search recipes by cuisine type (e.g. Spanish) so I can choose matching music.
+* As a overall user who is not logged in I can navigate to the home page and:
+    * login/sign up using Google Oauth.
 
+* As a overall user I can navigate to home page and:
+    * View some highlighted recipes of the week.
+
+* As an overall user, when redirected to the <a id="searchresults">search result</a> page I can:
+    * view returned results as above along with average star rating. 
+    * Click save recipe and be prompted to save to a collection.
+
+* As an overall user I can navigate to <a id="mysaved">My Saved Recipes page</a> and:
+    * View my recipe collections
+    * Create a new collection
+    * Edit a collection
+    * Delete a collection
+
+* As an overall user I can navigate to <a id="myfridge">My Fridge page</a> and:
+    * View all my ingredients by category
+  
+* As an overall user I can navigate to a <a id="single">single recipe page</a> and:
+    * view recipe as above, along with the average star rating.
+    * view written all written reviews at bottom of recipe.
+    * Click review recipe, and pop out window comes up to write a review and add a star rating. 
+    
 </details>
 
 ---
@@ -364,7 +430,6 @@ The overall goal of this application is a search application based on user ingre
 ![preferences](prototypes/pref.png)  
 ![settings](prototypes/settings.png)  
 ![pop-outs](prototypes/pop-outs.png)  
-
 
 </details>
 
