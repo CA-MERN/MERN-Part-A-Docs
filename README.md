@@ -5,7 +5,7 @@
 |Shelby El-rassi|Adrienne Smith|
 |:-------------:|:-------------:|
 |[www.shelby-el-rassi.com](www.shelby-el-rassi.com)  |[]() |
-|[github.com/Shelby219](www.shelby-el-rassi.com/)  |[github.com/aes89](https://github.com/aes89) |
+|[github.com/Shelby219](https://github.com/Shelby219)  |[github.com/aes89](https://github.com/aes89) |
 
 ---
 
@@ -313,9 +313,17 @@ The overall goal of this application is a search application based on user ingre
 </details>
 
 ---
-### Wireframes
+### Design Planning
 
-#### Version 1
+#### Moodboard
+
+<details><summary>Click to expand</summary>
+
+![Mood board](./diagrams/moodboard.png)
+
+</details>
+
+#### Wireframes
 
 <details><summary>Click to expand</summary>
 
@@ -329,30 +337,25 @@ The overall goal of this application is a search application based on user ingre
 ![Nav and Footer](wireframes/v1/nav_footer.jpg)
 #### Pop Out Windows
 ![Pop Out Windows](wireframes/v1/pop_out.jpg)
+
 </details>
         
 
-#### Version 2
+#### Prototypes
 
 <details><summary>Click to expand</summary>
 
-#### Mobile
-![Mobile Wireframe 1](screenshots/Mobile1.png)
-#### Tablet
-![Tablet Wireframe 1](screenshots/Tablet1.png)
-#### Desktop
-![Desktop Wireframe 1](screenshots/Desktop1.png)
-             
-</details>
+#### Home
+![Home](prototypes/home.png)
+![Fridge](prototypes/fridge.png)
+![pantry](prototypes/pantry.png)     
+![browse](prototypes/browse.png)   
+![saved-recipes](prototypes/saved-recipes.png)  
+![single-recipes](prototypes/single-recipe.png)  
+![preferences](prototypes/pref.png)  
+![settings](prototypes/settings.png)  
+![pop-outs](prototypes/pop-outs.png)  
 
----
-### Moodboard
-
-#### Version 1
-
-<details><summary>Click to expand</summary>
-
-![Mood board](./diagrams/moodboard.png)
 
 </details>
 
