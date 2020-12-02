@@ -184,6 +184,9 @@ The overall goal of this application is a search application based on user ingre
 
 <details><summary>Click to expand</summary>
 
+[Click here to View on Lucid Chart](https://lucid.app/lucidchart/invitations/accept/63016e48-cfa5-489b-b7fc-e2e8c84311d2)
+
+
 ![Dataflow-Diagram](./diagrams/DFD.jpeg)
 </details>
 
@@ -191,6 +194,8 @@ The overall goal of this application is a search application based on user ingre
 ### Application Architecture Diagram
 
 <details><summary>Click to expand</summary>
+
+[Click here to View on Lucid Chart](https://lucid.app/lucidchart/invitations/accept/8e98769d-0f56-4e25-8b80-25d8c69c2047)
 
 ![Application-Architecture-Diagram](./diagrams/aad.png)
 </details>
@@ -327,6 +332,8 @@ The overall goal of this application is a search application based on user ingre
 
 <details><summary>Click to expand</summary>
 
+[Click here to View on Miro](https://miro.com/app/board/o9J_led5nw4=/)
+
 #### Mobile
 ![Mobile Wireframe 1](wireframes/v1/mobilewv1.jpg)    
 #### Tablet
@@ -344,6 +351,8 @@ The overall goal of this application is a search application based on user ingre
 #### Prototypes
 
 <details><summary>Click to expand</summary>
+
+[Click here to View on Framer](https://framer.com/projects/Mockups-Prototypes--gQTgOBRzoQePnxdnXfiq-51eZf)
 
 #### Home
 ![Home](prototypes/home.png)
