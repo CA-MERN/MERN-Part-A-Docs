@@ -22,7 +22,7 @@
 <details>
 <summary>Click to expand</summary>
 
-The purpose of this application is for users to be able to enter ingredients which are always on their grocery list/fridge with the intent to search for recipes made up from those ingredients. The idea for this web application stemmed from the situation of the first Australian lockdown of Covid19, in which stores sold out of a lot of popular and favourite grocery items of customers. An application such as this means users can input the ingredients they have currently at home and recipes including these ingredients will be displayed. Along side this factor is the need for users to stick to a grocery budget, so they do not want to be constantly going to the store to get expensive ingredients. Also the type of users using this app are ones that need recipe inspiration for their weekly meals, ones that search recipes based on dietary requirements and excluded ingredients, and also users that are new to the cooking scene and want to start with cooking by just utilising ingredients already at home. This app can help to minimise food waste by helping users to combine items they may not have made a meal with otherwise.
+The purpose of this application is for users to be able to enter ingredients which are always on their grocery list/fridge with the intent to search for recipes made up from those ingredients. The idea for this web application stemmed from the situation of the first Australian lockdown of Covid19, in which stores sold out of a lot of popular and favourite grocery items of customers. An application such as this means users can input the ingredients they have currently at home and recipes including these ingredients will be displayed. Alongside this factor is the need for users to stick to a grocery budget, so they do not want to be constantly going to the store to get expensive ingredients. Also, the type of users using this app are ones that need recipe inspiration for their weekly meals, ones that search recipes based on dietary requirements and excluded ingredients, and also users that are new to the cooking scene and want to start with cooking by just utilising ingredients already at home. This app can help to minimise food waste by helping users to combine items they may not have made a meal with otherwise.
 
 The overall goal of this application is a search application based on user ingredient lists, with the ability to save those recipes, like and review recipes. 
 
@@ -34,57 +34,58 @@ The overall goal of this application is a search application based on user ingre
 <summary>Click to expand</summary>
 
 #### MVP Features
-* User Authentication & Account
-    * SignUp
+* User Authentication & Account:
+    * Sign up
     * Login
     * Logout
     * Edit account details in account settings.
     * Delete account.
     * Edit user preferences for diet and health labels. 
-* Navigation Bar
-    * When not signed in can navigate to Sign up/login pop out windows
-    * When not signed in the other nav links forward to to Sign up/login pop out windows
-    * When signed in can navigate to 'My Fridge'
-    * When signed in can navigate to 'My Pantry Staples'
-    * When signed in can navigate to 'My Preferences'
+* Navigation Bar:
+    * When not signed in can navigate to Sign up/login pop out windows.
+    * When not signed in the other nav links forward to sign up/login pop out windows.
+    * When signed in can navigate to 'My Fridge'.
+    * When signed in can navigate to 'My Pantry Staples'.
+    * When signed in can navigate to 'My Preferences'.
     * When signed in can click the Search Recipes button and will forward to recipe page.
-* Home Page
-    * Random food joke displayed each fresh from API
+* Home Page:
+    * Random food joke displayed each fresh from API.
     * Get Searching Today link with either returns recipe page or link to sign up.
-* My Fridge Page
-    * Can add new ingredients
-    * Can delete ingredients
-    * Can clear whole fridge list with a warning alert before submitting
+* My Fridge Page:
+    * Can add new ingredients.
+    * Can delete ingredients.
+    * Can clear whole fridge list with a warning alert before submitting.
     * Predictive text on the ingredient input.
-* Pantry Staples Page
-    * Starts off with default staples (like salt, pepper, olive oil, vinegar)
-    * Can add new staples
-    * Can delete staples
-* Returned Recipe Search Page
-    * View list of returned recipes based on the users fridge and pantry contents.
+* Pantry Staples Page:
+    * Starts off with default staples (like salt, pepper, olive oil, vinegar).
+    * Can add new staples.
+    * Can delete staples.
+* Returned Recipe Search Page:
+    * View list of returned recipes based on the user's fridge and pantry contents.
     * Title of the page is how many recipes the user can make.
     * Each recipe you can see name, image, prep time and rating.
-    * Each recipe you can see how many ingredients you have to make it eg. "You have 4/8 ingredients".
+    * Each recipe you can see how many ingredients you have to make it e.g. "You have 4/8 ingredients".
     * Filter feature used to filter recipes, this include diet, health labels, cuisine and prep time. 
-    * Save option under each recipe to save to users recipe collection. 
-    * Maybe if recipe in users saved collection, alert on screen(change button colour)
-* Single Recipe page
+    * Save option under each recipe to save to user's recipe collection. 
+    * Maybe if recipe in users saved collection, alert on screen (change button colour).
+* Single Recipe page:
     * The recipe information includes name, image, source, prep time, servings and calories per serving. 
     * Ingredients are listed.
-    * Link to full directions displayed
+    * Link to full directions displayed.
     * Button to save the recipe to user collection. 
     * If the recipe is in the users saved collection display data from that, else call the food API.
-* Account Settings
+* Account Settings:
     * User can update their profile picture, name, email and password. 
     * Current data gets preloaded as placeholder.
     * Save button then loads and alerts the user of saved. 
-* Preferences
-    * The user can preset diet and health preferences which will automatically be used to filter the recipes returned. 
-* Saved Recipes
+* Preferences:
+    * The user can set diet and health preferences which will automatically be used to filter the recipes returned. 
+* Saved Recipes:
     * Each recipe you can see name, image, category, rep time and rating.
     * Return recipes in sorted categories (breakfast, lunch, dinner).
     * Filter buttons at the top to show dishes based off Breakfast, lunch, dinner, snack.
     * Click on the recipe to go to single recipe page and display recipe data from saved data.
+<<<<<<< HEAD
 * Smart Features
     * Implement alternate ingredient middleware matching eg. Cilantro = coriander if API does not have in place. 
     * Filter saved recipes by breakfast/lunch/dinner/snacks
@@ -98,6 +99,21 @@ The overall goal of this application is a search application based on user ingre
 * User can rate a recipe
 * User can write a review on a recipe( including picture)
 
+=======
+* Smart Features:
+    * Implement alternate ingredient middleware matching e.g. Cilantro = coriander if API does not have in place. 
+   
+#### Nice to Have Features
+* Search History capture.
+* Oauth with sign up and login.
+* Recipes of the week on the home page.
+* Different collections for saved recipes.
+* Categories for ingredients in Fridge.
+* Filter saved recipes by breakfast/lunch/dinner/snacks.
+* User can rate a recipe.
+* User can write a review on a recipe (including picture).
+* Profile.
+>>>>>>> b9b162951369d21a03fef9a131f7717d19c446ba
  
 
 </details>
@@ -120,9 +136,9 @@ The overall goal of this application is a search application based on user ingre
 * Enjoys sharing and preparing meals.
 
 **Challenges**
-* Finds it difficult to create recipes
-* Has a limited food budget or limited access to ingredients
-* Has an interest in cooking but limitations (eg budget, dietary restrictions, skill).
+* Finds it difficult to create recipes.
+* Has a limited food budget or limited access to ingredients.
+* Has an interest in cooking but limitations (e.g. budget, dietary restrictions, skill).
 
 **Preferred Channels**
 * Follows celebrity chefs and food themed accounts on social media.
@@ -301,8 +317,8 @@ The overall goal of this application is a search application based on user ingre
     * view how many ingredients I have and how many are required (ie "You have 7/10 required ingredients").
 
 * As an overall user I can navigate to <a id="mypreferences">My Preferences page</a> and:
-    * enter/update preferred dietary requirements (eg vegetarian).
-    * enter/update preferred dietary restrictions (eg no nuts).
+    * enter/update preferred dietary requirements (e.g. vegetarian).
+    * enter/update preferred dietary restrictions (e.g. no nuts).
 
 ##### Sarah 
 * As a mother and busy worker…
@@ -318,7 +334,7 @@ The overall goal of this application is a search application based on user ingre
 * As a full-time worker and novice chef...
     * I would like to view times on recipes when deciding what to try to cook.
     * I would like a simple interface without confusing options.
-    * I would like the app to remember my items so I do not need to reenter staples.
+    * I would like the app to remember my items so I do not need to repeatedly enter staples.
     * I would like to see how many ingredients are missing when selecting a recipe.
     
 ##### Eliza 
@@ -370,7 +386,7 @@ The overall goal of this application is a search application based on user ingre
 ---
 ### Design Planning
 
-#### Moodboard
+#### Mood Board
 
 <details><summary>Click to expand</summary>
 
