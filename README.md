@@ -346,6 +346,17 @@ The overall goal of this application is a search application based on user ingre
 </details>
 
 ---
+### Moodboard
+
+#### Version 1
+
+<details><summary>Click to expand</summary>
+
+![Mood board](./diagrams/moodboard.png)
+
+</details>
+
+---
 ### Project Management- Trello
 
 #### Documentation Planning
