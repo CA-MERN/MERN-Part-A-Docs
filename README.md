@@ -5,7 +5,7 @@
 |Shelby El-rassi|Adrienne Smith|
 |:-------------:|:-------------:|
 |[www.shelby-el-rassi.com](www.shelby-el-rassi.com)  |[]() |
-|[github.com/Shelby219](www.shelby-el-rassi.com/)  |[github.com/aes89](https://github.com/aes89) |
+|[github.com/Shelby219](https://github.com/Shelby219)  |[github.com/aes89](https://github.com/aes89) |
 
 ---
 
@@ -313,9 +313,11 @@ The overall goal of this application is a search application based on user ingre
 </details>
 
 ---
-### Wireframes
+### Design Planning
 
-#### Version 1
+#### Moodboard
+![Moodboard](wireframes/Moodboard.png)  
+#### Wireframes
 
 <details><summary>Click to expand</summary>
 
@@ -332,16 +334,16 @@ The overall goal of this application is a search application based on user ingre
 </details>
         
 
-#### Version 2
+#### Prototypes
 
 <details><summary>Click to expand</summary>
 
 #### Mobile
-![Mobile Wireframe 1](screenshots/Mobile1.png)
+![Mobile Proto ](screenshots/Mobileproto.png)
 #### Tablet
-![Tablet Wireframe 1](screenshots/Tablet1.png)
+![Tablet Proto ](screenshots/Tabletproto.png)
 #### Desktop
-![Desktop Wireframe 1](screenshots/Desktop1.png)
+![Desktop Proto ](screenshots/Desktopproto.png)
              
 </details>
 
