@@ -141,29 +141,29 @@ The overall goal of this application is a search application based on user ingre
 <details><summary>Click to expand</summary>
 
 **Design and Planning**
-* Trello
-* Miro
-* xtensio
-* Framer
-* Lucid Chart  
-* Slack   
+* Trello (Planning)
+* Miro (Wireframing)
+* xtensio (Personas)
+* Framer (Prototypes)
+* Lucid Chart (Diagramming)
+* Slack (Team Communication)
 
 **Frontend**
-* HTML5
+* HTML5 
 * CSS3
 * React JS
 * JavaScript
-* JSX
-* Material-UI
-* Bootstrap
-* Axios
+* JSX 
+* Material-UI (Possible Icons)
+* Bootstrap (Possible CSS framework use)
+* Axios (Http Requests)
 
 **Backend**
 * ExpressJS
 * Node JS
-* Passport
-* Passport-JWT
-* Express Session
+* Passport (Authentication)
+* Passport-JWT (Json Web Token Auth)
+* Express Session (Session Tracking)
 
 **Database**
 * MongoDB
@@ -171,13 +171,15 @@ The overall goal of this application is a search application based on user ingre
 
 **Testing**
 * Cypress- Front-end
-* Supertest- Back-end
-* Mocha- Back-end
+* Supertest- (Server Testing)
+* SuperAgent (Server Testing)
+* Mocha- (Testing Framework)
+* Enzyme- (React Testing)
 
 **Other**
 * Edamam API or Spoonacular
-* Heroku
-* Netlify
+* Heroku - (Deployment Server)
+* Netlify- (Deployment Client)
 
 </details>
 
