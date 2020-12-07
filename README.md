@@ -4,7 +4,7 @@
 
 |Shelby El-rassi|Adrienne Smith|
 |:-------------:|:-------------:|
-|[www.shelby-el-rassi.com](www.shelby-el-rassi.com)  |[]() |
+|[www.shelby-el-rassi.com](www.shelby-el-rassi.com)  |[https://adriennesmith-portfolio.netlify.app/](https://adriennesmith-portfolio.netlify.app/) |
 |[github.com/Shelby219](https://github.com/Shelby219)  |[github.com/aes89](https://github.com/aes89) |
 
 ---
