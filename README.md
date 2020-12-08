@@ -154,8 +154,7 @@ The overall goal of this application is a search application based on user ingre
 * React JS
 * JavaScript
 * JSX 
-* Material-UI (Possible Icons)
-* Bootstrap (Possible CSS framework use)
+* Material-UI
 * Axios (Http Requests)
 
 **Backend**
@@ -164,6 +163,7 @@ The overall goal of this application is a search application based on user ingre
 * Passport (Authentication)
 * Passport-JWT (Json Web Token Auth)
 * Express Session (Session Tracking)
+* AWS s3 (Profile Image Upload)
 
 **Database**
 * MongoDB
@@ -174,10 +174,9 @@ The overall goal of this application is a search application based on user ingre
 * Supertest- (Server Testing)
 * SuperAgent (Server Testing)
 * Mocha- (Testing Framework)
-* Enzyme- (React Testing)
 
 **Other**
-* Edamam API or Spoonacular
+* Spoonacular API For recipes
 * Heroku - (Deployment Server)
 * Netlify- (Deployment Client)
 
@@ -406,7 +405,7 @@ The overall goal of this application is a search application based on user ingre
 
 [Click here to View on Framer](https://framer.com/projects/Mockups-Prototypes--gQTgOBRzoQePnxdnXfiq-51eZf)
 
-#### Home
+#### Pages
 ![Home](prototypes/home.png)
 ![Fridge](prototypes/fridge.png)
 ![pantry](prototypes/pantry.png)     
@@ -416,6 +415,9 @@ The overall goal of this application is a search application based on user ingre
 ![preferences](prototypes/pref.png)  
 ![settings](prototypes/settings.png)  
 ![pop-outs](prototypes/pop-outs.png)  
+
+#### How They Link
+![linking](prototypes/linking.png)  
 
 </details>
 
