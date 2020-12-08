@@ -405,7 +405,7 @@ The overall goal of this application is a search application based on user ingre
 
 [Click here to View on Framer](https://framer.com/projects/Mockups-Prototypes--gQTgOBRzoQePnxdnXfiq-51eZf)
 
-#### Home
+#### Pages
 ![Home](prototypes/home.png)
 ![Fridge](prototypes/fridge.png)
 ![pantry](prototypes/pantry.png)     
@@ -415,6 +415,9 @@ The overall goal of this application is a search application based on user ingre
 ![preferences](prototypes/pref.png)  
 ![settings](prototypes/settings.png)  
 ![pop-outs](prototypes/pop-outs.png)  
+
+#### How They Link
+![linking](prototypes/linking.png)  
 
 </details>
 
