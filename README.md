@@ -39,6 +39,7 @@ The overall goal of this application is a search application based on user ingre
     * Login
     * Logout
     * Edit account details in account settings.
+    * Upload profile image.
     * Delete account.
     * Edit user preferences for diet and health labels. 
 * Navigation Bar:
@@ -47,7 +48,7 @@ The overall goal of this application is a search application based on user ingre
     * When signed in can navigate to 'My Fridge'.
     * When signed in can navigate to 'My Pantry Staples'.
     * When signed in can navigate to 'My Preferences'.
-    * When signed in can click the Search Recipes button and will forward to recipe page.
+    * When signed in can click the Search Recipes button and will forward to browse recipe page.
 * Home Page:
     * Random food joke displayed each fresh from API.
     * Get Searching Today link with either returns recipe page or link to sign up.
@@ -63,11 +64,11 @@ The overall goal of this application is a search application based on user ingre
 * Returned Recipe Search Page:
     * View list of returned recipes based on the user's fridge and pantry contents.
     * Title of the page is how many recipes the user can make.
-    * Each recipe you can see name, image, prep time and rating.
+    * Each recipe you can see name, image, prep time.
     * Each recipe you can see how many ingredients you have to make it e.g. "You have 4/8 ingredients".
     * Filter feature used to filter recipes, this include diet, health labels, cuisine and prep time. 
     * Save option under each recipe to save to user's recipe collection. 
-    * Maybe if recipe in users saved collection, alert on screen (change button colour).
+    * If recipe in users saved collection, alert on screen (change button colour).
 * Single Recipe page:
     * The recipe information includes name, image, source, prep time, servings and calories per serving. 
     * Ingredients are listed.
@@ -79,10 +80,9 @@ The overall goal of this application is a search application based on user ingre
     * Current data gets preloaded as placeholder.
     * Save button then loads and alerts the user of saved. 
 * Preferences:
-    * The user can set diet and health preferences which will automatically be used to filter the recipes returned. 
+    * The user can set diet and health preferences (via checkboxes) which will automatically be used to filter the recipes returned. 
 * Saved Recipes:
-    * Each recipe you can see name, image, category, rep time and rating.
-    * Return recipes in sorted categories (breakfast, lunch, dinner).
+    * Each recipe you can see name, image, category, prep time.
     * Filter buttons at the top to show dishes based off Breakfast, lunch, dinner, snack.
     * Click on the recipe to go to single recipe page and display recipe data from saved data.
 * Smart Features:
@@ -94,10 +94,8 @@ The overall goal of this application is a search application based on user ingre
 * Recipes of the week on the home page.
 * Different collections for saved recipes.
 * Categories for ingredients in Fridge.
-* Filter saved recipes by breakfast/lunch/dinner/snacks.
 * User can rate a recipe.
 * User can write a review on a recipe (including picture).
-* Profile.
 
 
 </details>
@@ -108,7 +106,7 @@ The overall goal of this application is a search application based on user ingre
 
 **Key Demographics**
 * Gender: Anyone, predominantly women.
-* Age: 20-55.
+* Age: 18-55.
 * Family status: Cooking for self, partner or dependents.
 * Profession: Students, professionals and homemakers.
 * Language: English.
@@ -217,7 +215,7 @@ The overall goal of this application is a search application based on user ingre
 
 </details>
 
-#### Draft Stories
+#### Intial Draft Stories
 
 <details><summary>Click to expand</summary>
 
@@ -274,6 +272,9 @@ The overall goal of this application is a search application based on user ingre
     * navigate to <a href="#mysaved">My Saved Recipes</a> page.
     * search recipes and be redirected to <a href="#searchresults">search results</a>.
     * navigate to the <a href="#mypreferences">My Preferences</a> page.
+    * click sign up if not logged in
+    * click login if not logged in
+    * click logout if logged in
 
 * As an overall user I can navigate to <a id="myfridge">My Fridge page</a> and:
     * remove all items from my list with the "Empty My Fridge" button, which will confirm my choice.
@@ -325,7 +326,7 @@ The overall goal of this application is a search application based on user ingre
 ##### Eliza 
 * As a student and vegetarian…
     * I would like to have a tool to find recipe inspiration with my favourite ingredients.
-    * I would also like a tool to find dishes with alternatives to my favourite ingredients.
+    * I would also like a tool to find vegetarian dishes with alternatives to my favourite ingredients.
     * I would like to be able to filter recipes based on my dietary needs as a vegetarian.
   
 ##### Bez 
@@ -433,7 +434,7 @@ The overall goal of this application is a search application based on user ingre
 ![Trello Screen Shot 3](screenshots/trello3.png)
 ![Trello Screen Shot 4](screenshots/trello4.png)
 ![Trello Screen Shot 5](screenshots/trello5.png)
-![Trello Screen Shot 5](screenshots/trello8.png)
+![Trello Screen Shot 8](screenshots/trello8.png)
 </details>
 
 #### Application Planning
@@ -442,7 +443,7 @@ The overall goal of this application is a search application based on user ingre
 
 ![Trello Screen Shot 6](screenshots/trello6.png)
 ![Trello Screen Shot 7](screenshots/trello7.png)
-![Trello Screen Shot 7](screenshots/trello9.png)
-![Trello Screen Shot 7](screenshots/trello10.png)
-![Trello Screen Shot 7](screenshots/trello11.png)
+![Trello Screen Shot 9](screenshots/trello9.png)
+![Trello Screen Shot 10](screenshots/trello10.png)
+![Trello Screen Shot 11](screenshots/trello11.png)
 </details>
