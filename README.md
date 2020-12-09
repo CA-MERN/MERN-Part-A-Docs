@@ -199,7 +199,7 @@ The overall goal of this application is a search application based on user ingre
 [Click here to View on Lucid Chart](https://lucid.app/lucidchart/invitations/accept/8e98769d-0f56-4e25-8b80-25d8c69c2047)
 
 ![Application-Architecture-Diagram](./diagrams/aad.png)
-</details>
+</details>    
 
 ---
 ### User Stories
@@ -220,7 +220,7 @@ The overall goal of this application is a search application based on user ingre
 <details><summary>Click to expand</summary>
 
 * As a overall user:
-    * I can go to the home page signup to create an account
+    * I can go to the home page sign up to create an account
     * I can login
     * I can navigate to my account settings and edit my account details
     * I can navigate to the account settings and delete the account
