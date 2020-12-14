@@ -409,13 +409,15 @@ The overall goal of this application is a search application based on user ingre
 #### Pages
 ![Home](prototypes/home.png)
 ![Fridge](prototypes/fridge.png)
-![pantry](prototypes/pantry.png)     
+![pantry](prototypes/pantry.png)    
+![pantry-fridge-no-items](prototypes/pantryfridgenoitems.png)  
 ![browse](prototypes/browse.png)   
 ![saved-recipes](prototypes/saved-recipes.png)  
 ![single-recipes](prototypes/single-recipe.png)  
 ![preferences](prototypes/pref.png)  
 ![settings](prototypes/settings.png)  
 ![pop-outs](prototypes/pop-outs.png)  
+![404](prototypes/404.png)  
 
 #### How They Link
 ![linking](prototypes/linking.png)  
